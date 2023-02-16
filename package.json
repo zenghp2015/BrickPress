@@ -1,0 +1,24 @@
+{
+  "name": "brickpress",
+  "version": "0.1.0",
+  "description": "对标服务，市面上的CMS  WordPress",
+  "engines": {
+    "node": ">= 16.19.0",
+    "npm": ">= 8.19.3"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenghp2015/BrickPress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenghp2015/BrickPress/issues"
+  },
+  "homepage": "https://github.com/zenghp2015/BrickPress#readme"
+}
